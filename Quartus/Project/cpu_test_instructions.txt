@@ -1,0 +1,38 @@
+store 11 $0
+0x80160
+store 21 $1
+0x802a1
+min $0 $1 $2
+0x60022
+slt $0 $1 $4
+0x70024
+store 11 $5
+0x80165
+sub $0 $5 $0
+0x100a0
+store 1 $0
+0x80020
+store 3 $1
+0x80061
+shiftl $1 30 $1
+0x307c1
+shiftl $0 31 $0
+0x303e0
+add $0 $0 $1
+0x1
+store 20 $0
+0x80280
+store 20 $1
+0x80281
+slt $0 $1 $2
+0x70022
+shiftr $0 1 $0
+0x20020
+sub $0 $1 $0
+0x10020
+store 17 $0
+0x80220
+store 15 $1
+0x801e1
+nand $1 $0 $1
+0x50401

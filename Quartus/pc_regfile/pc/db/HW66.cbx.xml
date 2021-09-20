@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="HW66">
+		<CBX_INST_ENTRY INSTANCE_NAME="|HW66|lpm_constant2:0_cte|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|HW66|lpm_mux0:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_coc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

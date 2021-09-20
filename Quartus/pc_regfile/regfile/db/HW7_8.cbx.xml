@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="HW7_8">
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_decode0:addresser|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_b8f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_mux0:mux_1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_0qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|RegisterFile|lpm_mux0:mux_2|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_0qc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
